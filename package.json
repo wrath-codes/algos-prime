@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start:dev": "tsup src/index.ts --watch"
+    "start:dev": "tsx src/index.ts --watch"
   },
   "keywords": [],
   "author": "",
